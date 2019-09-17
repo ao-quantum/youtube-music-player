@@ -1,0 +1,17 @@
+{
+  "name": "quantum.apps.youtube-desktop",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "build": "npm install",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rich-presence": "0.0.8",
+    "electron": "^6.0.1",
+    "node-notifier": "^5.4.3"
+  }
+}
