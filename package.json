@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "discord-rich-presence": "0.0.8",
-    "electron": "^7.2.4",
+    "electron": "^9.4.0",
     "node-notifier": "^5.4.3"
   }
 }
